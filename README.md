@@ -6,11 +6,11 @@
 
 **拓竹 3D 打印机局域网实时监控 · RTSPS 硬解视频流 · 基础温控与 AMS 状态**
 
-[![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B-blue?style=flat-square&logo=android)](https://developer.android.com/)
-[![Language](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
-[![Protocol](https://img.shields.io/badge/LAN-MQTT%208883%20%7C%20RTSPS%20322-00AE42?style=flat-square)](#项目结构说明方便自己改)
-[![Release](https://img.shields.io/badge/Release-v1.0.0-orange?style=flat-square)](https://github.com/Jolly-J/BambuMonitor/releases)
-[![License](https://img.shields.io/badge/License-MIT-success?style=flat-square)](LICENSE)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/Jolly-J/BambuMonitor/releases)
+[![Platform](https://img.shields.io/badge/platform-Android%208.0%2B-lightgrey.svg)](https://developer.android.com/)
+[![Built With](https://img.shields.io/badge/built%20with-Kotlin%20%7C%20Compose-orange.svg)](https://kotlinlang.org/)
+[![Protocol](https://img.shields.io/badge/protocol-MQTT%208883%20%7C%20RTSPS%20322-00AE42.svg)](#项目结构说明方便自己改)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 </div>
 
